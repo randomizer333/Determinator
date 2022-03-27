@@ -1,4 +1,4 @@
-# PriceAnalysis
+# Determinator
 
 A price agregator made to determine the best trading strategy with simulation of trading
 
